@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/haywirelabs/zap-reporter/issues"
   },
-  "homepage": "https://github.com/haywirelabs/zap-reporter"
+  "homepage": "https://github.com/haywirelabs/zap-reporter",
+  "dependencies": {
+    "graceful-fs": "2.0.3",
+    "argparse": "0.1.15"
+  }
 }
